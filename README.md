@@ -24,4 +24,4 @@ Rainbow background photo by <a href="https://unsplash.com/@matcfelipe?utm_source
 
 Rainbow Text Exercise by Colt Steele on Udemy:
 
-![exercise](Assets/rainbow-text.png)
+![exercise](Assets/rainbow-text-exercise.png)
