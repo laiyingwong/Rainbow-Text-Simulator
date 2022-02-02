@@ -13,7 +13,7 @@ The rainbow text simulator features a stormy weather background with the quote "
 
 This is my very first DOM manipulation mini project! 🌈 Inspired by a rainbow text exercise, in which I was asked to iterate over some text in an HTML file and make them rainbow-colored using JavaScript, I came up with the idea of making a project with more visually stimulating effects than simply changing the text color. 
 
-When implementing the features I envisioned, I incoporated the practice of creating, prepending, and removing elements in the DOM, as well as attaching and experimenting with different event handlers. I also spent a lot of time googling and reading documentations for some issues I ran into (e.g. right element was selected but it returned null when I added event handler on it -- and it turned out that the script was executed before page loaded because I placed the script before the body element) and ideas I didn't know how to put into action at the moment (e.g. customize a cursor). It was a fulfilling and rewarding learning experience!
+When implementing the features I envisioned, I incoporated the practice of creating, prepending, and removing elements in the DOM, as well as attaching and experimenting with different event handlers. I also spent a lot of time googling and reading documentations for some issues I ran into (e.g. right element was selected but it returned null when I added event handler on it -- and it turned out that the script was executed before the page loaded because I placed the script before the body element) and ideas I didn't know how to put into action at the moment (e.g. customize a cursor). It was a fulfilling and rewarding learning experience!
 
 
 ## 👏 Credits
